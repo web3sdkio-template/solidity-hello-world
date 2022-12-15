@@ -14,7 +14,7 @@
 
 [Hardhat](https://hardhat.org/) for the development environment (testing, debugging, etc.)
 
-[web3sdkio deploy](https://portal.web3sdk.io/web3sdkio-deploy) to deploy the contract to the blockchain without using a private key
+[web3sdkio deploy](https://docs.web3sdk.io/web3sdkio-deploy) to deploy the contract to the blockchain without using a private key
 
 <br />
 
@@ -102,7 +102,7 @@ To deploy the contract to the blockchain, run the below script:
 npx web3sdkio deploy
 ```
 
-This command uses [web3sdkio deploy](https://portal.web3sdk.io/web3sdkio-deploy) to:
+This command uses [web3sdkio deploy](https://docs.web3sdk.io/web3sdkio-deploy) to:
 
 1. Compile your smart contract and detect any errors
 2. Upload the contract ABI to IPFS
